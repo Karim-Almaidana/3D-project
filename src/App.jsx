@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-import gradient from "./assets/gradient.PNG";
+import gradient from "/assets/gradient.PNG";
 
 export default function App() {
   useEffect(() => {
